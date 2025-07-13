@@ -25,9 +25,13 @@ An interactive Streamlit-based web application that classifies satellite images 
 ## Project Structure
 
 terrain-classifier/
+
 ├── terrain_app.py # Main Streamlit app
+
 ├── terrain_classifier.h5 # Trained Keras model
+
 ├── class_indices.json # Mapping of class names to model outputs
+
 ├── requirements.txt # Python dependencies
 
 ## Tech Stack
